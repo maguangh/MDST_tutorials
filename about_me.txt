@@ -1,0 +1,4 @@
+Introduce yourself in this file!
+
+My name is Henry Ma and I am currently a junior studying Computer Science. I like working out and hanging out with friends. I have an interest
+in datascience and the projects here seem very interesting and I think that they can further my interest in both CS and DS.
